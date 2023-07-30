@@ -8,8 +8,7 @@ fascinated</b>
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
-  <p align="center">My Personal Website:<p>
-     <a href="https://mohamed2.cfd/" target="_blank"></a>
+ <p align="center">My Personal Website: https://www.mohamed2.cfd/ <p>
 </p>
 <hr>
 
